@@ -1,6 +1,4 @@
-### Hi there 👋
-
--🌱 I’m currently collaborating on [@ideas2codeweb](https://github.com/ideas2codeweb)
+### 🌱 I’m currently collaborating on [@ideas2codeweb](https://github.com/ideas2codeweb)
 
 
 | Posts | Tutorials | Demos | Repositories
