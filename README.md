@@ -1,4 +1,4 @@
-### 🌱 I’m currently collaborating on [@ideas2code](https://github.com/ideas2codeweb)
+### 🌱 I’m currently collaborating on [ideas2code.io](https://www.ideas2code.io/)
 
 
 | Posts | Tutorials | Demos | Repositories
